@@ -1,0 +1,188 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body
+{
+    min-height: 100vh;
+    width: 100vw;
+    overflow-x: hidden;
+}
+.content
+{
+    width: 100%;
+    height: auto;
+    margin: auto;
+    color: black;
+    position: relative;
+    margin-top: 200px;
+    margin-left: 400px;
+    
+}
+.content .para
+{
+    padding-top: 20px;
+    font-size: 25px;
+    padding-bottom: 25px;
+    letter-spacing: 1.2px;
+    line-height: 30px;
+}
+
+
+.content .btn
+{
+    width: 130px;
+    height: 40px;
+    border-radius: 40px;
+    background-color: rgb(3, 154, 219);
+   border: none;
+   font-size: 12px;
+    margin-bottom: 10px;
+    transition: .4s ease;
+}
+
+.content .btn a
+{
+    color: white;
+    text-decoration: none;
+}
+.img .mob
+{
+    height: 400px;
+    width: 200px;
+    position: absolute;
+    top: -50px;
+    left: 500px;
+
+}
+.background .bg
+{
+    margin-top: 100px;
+    width: 1500px;
+    height: 300px;
+    display: flex;
+    background-size: cover;
+
+}
+
+.text
+{
+    color: gainsboro;
+    top: 90%;
+    padding-left: 200px;
+    position: absolute;
+    font-size: 20px;
+
+}
+.sec
+{
+    color: gainsboro;
+    top: 90%;
+    margin-top: -120px;
+    padding-left: 400px;
+    position: relative;
+    font-size: 20px;
+
+}
+.third
+{
+    color: gainsboro;
+    top: 90%;
+    margin-top: -120px;
+    padding-left: 400px;
+    position: relative;
+    font-size: 20px;
+}
+.btn2
+{
+    width: 100px;
+    height: 30px;
+    border-radius: 40px;
+    background-color: rgb(3, 154, 219);
+   border: none;
+   font-size: 12px;
+    margin-top: 10px;
+    color: white;
+    cursor: pointer;
+}
+
+.RI
+{
+   text-align: center;
+    color: gainsboro;
+    top: 170%;
+    padding-left: 550px;
+    position: absolute;
+    font-size: 30px;
+    font-weight: 300;
+    
+
+}
+.para2
+{
+    text-align: center;
+    color: gainsboro;
+    top: 177%;
+    padding-left: 400px;
+    position: absolute;
+    font-size: medium;
+    
+}
+.br1
+{
+    text-align: center;
+    top: 185%;
+    padding-left: 20px;
+    position: absolute;
+    font-size: medium;
+    border-radius: 9px;
+    border-style: dashed;
+    width: 30%;
+    padding-top: 7%;
+    padding-bottom: 7%;
+    margin-left: 18%;
+    margin-top: 5%;
+    float: left;
+    border-color: gainsboro;
+    color: white;
+   
+}
+.br2
+{
+    text-align: center;
+    top: 185%;
+    padding-left: 20px;
+    position: absolute;
+    font-size: medium;
+    border-radius: 9px;
+    border-style: dashed;
+    width: 30%;
+    padding-top: 7%;
+    padding-bottom: 7%;
+    margin-left: 50%;
+    margin-top: 5%;
+    border-color: gainsboro;
+    color: white;
+}
+footer
+{
+    top: 230%;
+    padding-top: 2%;
+    font-family: serif;
+    font-size: medium;
+    /* opacity: .9; */
+    padding-bottom: 6px;
+    padding-left: 500px;
+    position: absolute;
+    color: gainsboro;
+
+}
+.bg2
+{
+    background-size:cover ;
+    height: 550px;
+  width: 1490px;
+}
+
